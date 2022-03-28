@@ -13,3 +13,5 @@ travers un catalogue en ligne.
 
 
 Le projet est realisé par : SKITOU Chouaib et ELHAID Oussama
+
+Les technologies utilisées : HTML, CSS, Bootstrap, JavaScript, Laravel7, MySQL
