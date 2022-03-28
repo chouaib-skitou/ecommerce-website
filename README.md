@@ -10,3 +10,6 @@ Notre projet est de créer un site web e-commerce, l’objectif étant de trouve
 plusieurs boutiques (en ligne ou local) tel que la gestion des comptes clients, produits,
 commandes, promotions et aussi bien présenter les produits proposés par chaque boutique à
 travers un catalogue en ligne.
+
+
+Le projet est realisé par : SKITOU Chouaib et ELHAID Oussama
