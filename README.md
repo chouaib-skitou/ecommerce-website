@@ -27,12 +27,12 @@ Our project is to create an e-commerce website, with the aim of finding solution
 
 1. **Clone the Repository**:
    ```bash
-   git clone [repository URL]
+   git clone laravel-ecommerce-website
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd [project-directory]
+   cd laravel-ecommerce-website
    ```
 
 3. **Install Composer Dependencies**:
